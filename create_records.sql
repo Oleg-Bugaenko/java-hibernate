@@ -1,0 +1,1 @@
+insert into students (name, email) VALUES ('Alex', 'alex@gmail.com'), ('Nick', 'nick@gmail.com'), ('Mary', 'mary_N@gmail.com');
